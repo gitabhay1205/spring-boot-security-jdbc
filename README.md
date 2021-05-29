@@ -1,5 +1,5 @@
 # spring-boot-security-jdbc
-This is the sample project for spring-security with authentication and authorization based on role based access.
+This is the sample project for spring-security with authentication and authorization based on role based access using jdbc
 
 hit the endpoint in browser, login page will appear provided by spring-starter-security by default.
 1) With /admin endpoint you can access both user and admin information

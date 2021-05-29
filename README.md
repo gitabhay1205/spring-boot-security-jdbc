@@ -6,11 +6,11 @@ hit the endpoint in browser, login page will appear provided by spring-starter-s
 2) with /user  endpoint you can access only user info not admin
 3) with /      endpoint does not need any login info.
 
-myusers table
+ myusers table
 
 columns username	password	enabled
   row1     admin	   pass	     1
-  row2     user	     pass	     1
+  row2     user	       pass	     1
 
 
 myauthorities table
